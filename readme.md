@@ -8,4 +8,7 @@ Project 3 : Decision Trees
 
 Project 4 : Naive Bayes
 
+Project 5: K-Nearest Neighbors
+
+
 
