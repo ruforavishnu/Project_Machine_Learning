@@ -10,5 +10,8 @@ Project 4 : Naive Bayes
 
 Project 5: K-Nearest Neighbors
 
+Project 6: Random Forest
+
+
 
 
