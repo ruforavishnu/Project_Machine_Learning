@@ -12,6 +12,7 @@ Project 5: K-Nearest Neighbors
 
 Project 6: Random Forest
 
+Project 7: Support Vector Machine
 
 
 
