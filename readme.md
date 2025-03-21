@@ -14,5 +14,5 @@ Project 6: Random Forest
 
 Project 7: Support Vector Machine
 
-
+Project 8: Multi Layer Perceptron
 
