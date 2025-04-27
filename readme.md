@@ -1,7 +1,7 @@
 
 
 ##### Task1: Write 10 projects using Supervised Learning
-  Status: 9/10 completed
+  Status: 10/10 completed
   
 ##### Task2: Write 10 projects using Unsupervised Learning
   Status: Pending
@@ -30,6 +30,8 @@ Project 7: Support Vector Machine
 Project 8: Multi Layer Perceptron
 
 Project 9: Tensorflow
+
+Project 10: Tensorflow with RNN (Recurrent Neural Network)
 
 
 #### Additional Projects 
