@@ -4,7 +4,7 @@
   Status: 10/10 completed
   
 ##### Task2: Write 10 projects using Unsupervised Learning
-  Status: Pending
+  Status: 1/10 completed
 ##### Task3: Write 10 projects using re-inforcement Learning
   Status: Pending
 
@@ -12,6 +12,8 @@
 
 
 (Projects are written as .ipynb files. Can be easily ported to Python Django framework as a REST API output system so will work across any programming language front end system 24/7 for 365 days of the year.  as and when required)
+
+## Supervised Learning (10 projects of 10 projects completed)
 
 Project 1 : Linear Regression
 
@@ -32,6 +34,14 @@ Project 8: Multi Layer Perceptron
 Project 9: Tensorflow
 
 Project 10: Tensorflow with RNN (Recurrent Neural Network)
+
+
+## Unsupervised Learning (1 project / 10 projects completed)
+
+Project 11: K Means Clustering
+
+
+---
 
 
 #### Additional Projects 
