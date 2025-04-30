@@ -4,7 +4,7 @@
   Status: 10/10 completed
   
 ##### Task2: Write 10 projects using Unsupervised Learning
-  Status: 1/10 completed
+  Status: 2/10 completed
 ##### Task3: Write 10 projects using re-inforcement Learning
   Status: Pending
 
@@ -36,9 +36,12 @@ Project 9: Tensorflow
 Project 10: Tensorflow with RNN (Recurrent Neural Network)
 
 
-## Unsupervised Learning (1 project / 10 projects completed)
+## Unsupervised Learning (2 projects / 10 projects completed)
 
 Project 11: K Means Clustering
+
+Project 12: DBSCAN (Density Based Spatial Clustering of Applications with Noise)
+
 
 
 ---
