@@ -13,7 +13,7 @@
 
 (Projects are written as .ipynb files. Can be easily ported to Python Django framework as a REST API output system so will work across any programming language front end system 24/7 for 365 days of the year.  as and when required)
 
-## Supervised Learning (10 projects of 10 projects completed)
+## Supervised Learning (10 projects / 10 projects completed)
 
 Project 1 : Linear Regression
 
@@ -36,7 +36,7 @@ Project 9: Tensorflow
 Project 10: Tensorflow with RNN (Recurrent Neural Network)
 
 
-## Unsupervised Learning (2 projects / 10 projects completed)
+## Unsupervised Learning (3 projects / 10 projects completed)
 
 Project 11: K Means Clustering
 
