@@ -4,7 +4,7 @@
   Status: 10/10 completed
   
 ##### Task2: Write 10 projects using Unsupervised Learning
-  Status: 2/10 completed
+  Status: 3/10 completed
 ##### Task3: Write 10 projects using re-inforcement Learning
   Status: Pending
 
@@ -42,6 +42,7 @@ Project 11: K Means Clustering
 
 Project 12: DBSCAN (Density Based Spatial Clustering of Applications with Noise)
 
+Project 13: Document Topic modeling using LDA (Latent Dirichlet Allocation) - Unsupervised Learning 
 
 
 ---
