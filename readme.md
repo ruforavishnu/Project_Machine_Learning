@@ -36,7 +36,7 @@ Project 9: Tensorflow
 Project 10: Tensorflow with RNN (Recurrent Neural Network)
 
 
-## Unsupervised Learning (4 projects / 10 projects completed)
+## Unsupervised Learning (5 projects / 10 projects completed)
 
 Project 11: K Means Clustering
 
