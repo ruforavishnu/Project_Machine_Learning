@@ -5,8 +5,9 @@
   
 ##### Task2: Write 10 projects using Unsupervised Learning
   Status: 5/10 completed
+  
 ##### Task3: Write 10 projects using re-inforcement Learning
-  Status: Pending
+  Status: 1/10 completed
 
 ---
 
@@ -47,6 +48,11 @@ Project 13: Document Topic modeling using LDA (Latent Dirichlet Allocation) - Un
 Project 14: Music Genre Discovery from Raw MP3 Files using Unsupervised Learning
 
 Project 15: Movie name Recommendation system using Unsupervised Learning
+
+## Re-inforcement Learning (1 projects / 10 projects completed)
+
+Project 21: Self-Learning Tic-Tac-Toe Agent using Q-Learning
+
 
 ---
 
