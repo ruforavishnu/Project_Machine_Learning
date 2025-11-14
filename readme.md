@@ -49,38 +49,33 @@ All projects are future-proof
 
 # 🟣 Unsupervised Learning (6/10 projects Completed)
 
-1. **[K-Means Clustering](https://github.com/ruforavishnu/Project_Machine_Learning/blob/main/Project_11_Unsupervised_Learning_K_means_clustering_Customer_segmentation_using_K_means_clustering.ipynb)**
-    
-2. **[DBSCAN](https://github.com/ruforavishnu/Project_Machine_Learning/blob/main/Project_12_Unsupervised_Learning_Anomaly_Detection_in_Network_Traffic_using_DBSCAN.ipynb)**
-    
-3. **[LDA Topic Modeling](https://github.com/ruforavishnu/Project_Machine_Learning/blob/main/Project13_Unsupervised_Learning_Document_topic_modeling_using_Latent_Dirichlet_Allocation_\(LDA\).ipynb)**
+
     
 4. **Music Genre Discovery (Raw MP3 Clusters)**  
     Project was bit sophisticated to fit into a google colab notebook so was done in a folder and uploaded via git. See Project14
 	1. . [Project 14 - Making an AI model to learn and figuring out music genre from a bunch of raw mp3 files ](https://github.com/ruforavishnu/Project_Machine_Learning/tree/master/Project14-Unsupervised%20Learning)
 		1. For example: made the ai model learn to figure out which of which are Enrique songs and AR Rahman songs and Taylor Swift songs and Owlcity songs and other mp3 songs just from a zip containing a bunch of mp3 files.
-5.   **[Movie Name Recommendation (Collaborative Filtering)](https://github.com/ruforavishnu/Project_Machine_Learning/blob/main/Project15_UnsupervisedLearning_Recommender_System_using_Collaborative_Filtering_\(MovieRecommendations\).ipynb)**
-6.  **[Genetic Clustering of DNA Sequences](https://github.com/ruforavishnu/Project_Machine_Learning/blob/master/Project16_Unsupervised_Learning_Genetic_Clustering_of_DNA_Sequences.ipynb)**
-
-
 
 
 1. [K-Means Clustering - Customer Segmentation](https://github.com/ruforavishnu/Project_Machine_Learning/blob/master/Project_11_Unsupervised_Learning_K_means_clustering_Customer_segmentation_using_K_means_clustering.ipynb)
 2. [DBSCAN - Anomaly Detection in Network Traffic](https://github.com/ruforavishnu/Project_Machine_Learning/blob/master/Project_12_Unsupervised_Learning_Anomaly_Detection_in_Network_Traffic_using_DBSCAN.ipynb)
 3. [Document Topic Modeling using LDA](https://github.com/ruforavishnu/Project_Machine_Learning/blob/master/Project13_Unsupervised_Learning_Document_topic_modeling_using_Latent_Dirichlet_Allocation_(LDA).ipynb)
-4. [Movie Recommender System - Collaborative Filtering](https://github.com/ruforavishnu/Project_Machine_Learning/blob/master/Project15_UnsupervisedLearning_Recommender_System_using_Collaborative_Filtering_(MovieRecommendations).ipynb)
-5. [Genetic Clustering of DNA Sequences](https://github.com/ruforavishnu/Project_Machine_Learning/blob/master/Project16_Unsupervised_Learning_Genetic_Clustering_of_DNA_Sequences.ipynb)
-6. [Music Genre Discovery from Raw MP3 Files](https://github.com/ruforavishnu/Project_Machine_Learning/tree/master/Project14-Unsupervised%20Learning) *(folder of notebooks)*
+4.  **Music Genre Discovery (Raw MP3 Clusters)**  
+    This Project was bit sophisticated to fit into a google colab notebook so was done in a folder and uploaded via git. See Project14
+	1. . [Project 14 - Making an AI model to learn and figuring out music genre from a bunch of raw mp3 files ](https://github.com/ruforavishnu/Project_Machine_Learning/tree/master/Project14-Unsupervised%20Learning)
+		1. For example: made the ai model learn to figure out which of which are Enrique songs and AR Rahman songs and Taylor Swift songs and Owlcity songs and other mp3 songs just from a zip containing a bunch of mp3 files.
+5.  [Movie Recommender System - Collaborative Filtering](https://github.com/ruforavishnu/Project_Machine_Learning/blob/master/Project15_UnsupervisedLearning_Recommender_System_using_Collaborative_Filtering_(MovieRecommendations).ipynb)
+6. [Genetic Clustering of DNA Sequences](https://github.com/ruforavishnu/Project_Machine_Learning/blob/master/Project16_Unsupervised_Learning_Genetic_Clustering_of_DNA_Sequences.ipynb)
 
-	
 
-(4 more yet to be completed…)
+
+(4 more yet to be uploaded…)
 
 ---
 
 # 🟢 Reinforcement Learning (1/10 Completed)
 
-7. **[Self-Learning Tic-Tac-Toe (Q-Learning)](https://github.com/ruforavishnu/Project_Machine_Learning/blob/main/Project21_Reinforcement_Learning_Self_learning_Tic_Tac_Toe_Agent_using_Q_Learning.ipynb)**  
+1. **[Self-Learning Tic-Tac-Toe (Q-Learning)](https://github.com/ruforavishnu/Project_Machine_Learning/blob/main/Project21_Reinforcement_Learning_Self_learning_Tic_Tac_Toe_Agent_using_Q_Learning.ipynb)**  
     A simple agent that learns entirely through rewards and exploration — no rules hardcoded.
     
 
