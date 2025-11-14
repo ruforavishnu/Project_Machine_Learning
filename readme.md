@@ -49,7 +49,23 @@ All projects are future-proof
 9. **[TensorFlow Neural Network (Denoising Images)](https://github.com/ruforavishnu/Project_Machine_Learning/blob/main/project9_supervised_learning_denoising_images_with_tensorflow.ipynb)**
     
 10. **[TensorFlow RNN (LSTM Stock Price Prediction)](https://github.com/ruforavishnu/Project_Machine_Learning/blob/main/Project_10_TensorFlow-Stock_Price_Prediction_using_LSTM_\(Recurrent_Neural_Network\).ipynb)**
-    
+
+
+# 🔵 Supervised Learning (Partial List)
+
+1. Linear Regression - House Prices Prediction
+2. [Logistic Regression - Heart Disease Prediction](https://github.com/ruforavishnu/Project_Machine_Learning/blob/master/project-supervised-learning-logistic-regression-heart-disease-prediction.ipynb)
+3. [Decision Trees - Customer Churn Prediction](https://github.com/ruforavishnu/Project_Machine_Learning/blob/master/project3-supervised-learning-decision-trees-customer-churn-prediction.ipynb)
+4. [SVM - Handwriting Detection](https://github.com/ruforavishnu/Project_Machine_Learning/blob/master/project3-supervised-learning-svm-handwriting-detection.ipynb)
+5. [Naive Bayes - Sentiment Analysis](https://github.com/ruforavishnu/Project_Machine_Learning/blob/master/project4-supervised-learning-naive-bayes-sentiment-analysis.ipynb)
+6. [K-Nearest Neighbors - Malaria Detection from Blood-cell Images](https://github.com/ruforavishnu/Project_Machine_Learning/blob/master/project5-supervised-learning-K-Nearest-Neighbours-Malaria-Detection-from-Blood-cell-images.ipynb)
+7. [Random Forest - Stock Price Prediction](https://github.com/ruforavishnu/Project_Machine_Learning/blob/master/project6-supervised-learning-Random-Forest-Stock-Price-Prediction.ipynb)
+8. [Support Vector Machine - Whiskey Brand Prediction from Flavour](https://github.com/ruforavishnu/Project_Machine_Learning/blob/master/project7-supervised-learning-SupportVectorMachine-Whiskey-Brand-Prediction-From-Flavour.ipynb)
+9. [Multi-Layer Perceptron - Handwritten Digit Classifier](https://github.com/ruforavishnu/Project_Machine_Learning/blob/master/project8_supervised_learning_multi_layer_perceptron_handwritten_digit_classifier.ipynb)
+10. [TensorFlow - Denoising Images](https://github.com/ruforavishnu/Project_Machine_Learning/blob/master/project9_supervised_learning_denoising_images_with_tensorflow.ipynb)
+
+
+	
 
 ---
 
