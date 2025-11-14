@@ -30,28 +30,6 @@ All projects are future-proof
 
 # 🔵 Supervised Learning (10/10 projects Completed)
 
-1. **Linear Regression**  
-        
-2. **[Logistic Regression](https://github.com/ruforavishnu/Project_Machine_Learning/blob/main/project-supervised-learning-logistic-regression-heart-disease-prediction.ipynb)**
-    
-3. **[Decision Trees](https://github.com/ruforavishnu/Project_Machine_Learning/blob/main/project3-supervised-learning-decision-trees-customer-churn-prediction.ipynb)**
-    
-4. **[Naive Bayes](https://github.com/ruforavishnu/Project_Machine_Learning/blob/main/project4-supervised-learning-naive-bayes-sentiment-analysis.ipynb)**
-    
-5. **[K-Nearest Neighbors](https://github.com/ruforavishnu/Project_Machine_Learning/blob/main/project5-supervised-learning-K-Nearest-Neighbours-Malaria-Detection-from-Blood-cell-images.ipynb)**
-    
-6. **[Random Forest](https://github.com/ruforavishnu/Project_Machine_Learning/blob/main/project6-supervised-learning-Random-Forest-Stock-Price-Prediction.ipynb)**
-    
-7. **[Support Vector Machine](https://github.com/ruforavishnu/Project_Machine_Learning/blob/main/project3-supervised-learning-svm-handwriting-detection.ipynb)**
-    
-8. **[Multi-Layer Perceptron (MLP)](https://github.com/ruforavishnu/Project_Machine_Learning/blob/main/project8_supervised_learning_multi_layer_perceptron_handwritten_digit_classifier.ipynb)**
-    
-9. **[TensorFlow Neural Network (Denoising Images)](https://github.com/ruforavishnu/Project_Machine_Learning/blob/main/project9_supervised_learning_denoising_images_with_tensorflow.ipynb)**
-    
-10. **[TensorFlow RNN (LSTM Stock Price Prediction)](https://github.com/ruforavishnu/Project_Machine_Learning/blob/main/Project_10_TensorFlow-Stock_Price_Prediction_using_LSTM_\(Recurrent_Neural_Network\).ipynb)**
-
-
-# 🔵 Supervised Learning (Partial List)
 
 1. Linear Regression - House Prices Prediction
 2. [Logistic Regression - Heart Disease Prediction](https://github.com/ruforavishnu/Project_Machine_Learning/blob/master/project-supervised-learning-logistic-regression-heart-disease-prediction.ipynb)
