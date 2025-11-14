@@ -24,7 +24,7 @@ All projects are future-proof
 | -------------------------- | ------ | --------- |
 | **Supervised Learning**    | 10     | ✅ 10/10   |
 | **Unsupervised Learning**  | 10     | 🚧 6/10   |
-| **Reinforcement Learning** | 10     | 🟢 1/10   |
+| **Reinforcement Learning** | 10     | 🚧  1/10   |
 
 ---
 
@@ -47,7 +47,7 @@ All projects are future-proof
 
 ---
 
-# 🟣 Unsupervised Learning (6/10 projects Completed)
+# 🔵 Unsupervised Learning (6/10 projects Completed)
 
 
 1. [K-Means Clustering - Customer Segmentation](https://github.com/ruforavishnu/Project_Machine_Learning/blob/master/Project_11_Unsupervised_Learning_K_means_clustering_Customer_segmentation_using_K_means_clustering.ipynb)
@@ -66,7 +66,7 @@ All projects are future-proof
 
 ---
 
-# 🟢 Reinforcement Learning (1/10 Completed)
+# 🔵 Reinforcement Learning (1/10 Completed)
 
 1. **[Self-Learning Tic-Tac-Toe (Q-Learning)](https://github.com/ruforavishnu/Project_Machine_Learning/blob/main/Project21_Reinforcement_Learning_Self_learning_Tic_Tac_Toe_Agent_using_Q_Learning.ipynb)**  
     A simple agent that learns entirely through rewards and exploration — no rules hardcoded.
