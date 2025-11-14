@@ -62,7 +62,17 @@ All projects are future-proof
 5.   **[Movie Name Recommendation (Collaborative Filtering)](https://github.com/ruforavishnu/Project_Machine_Learning/blob/main/Project15_UnsupervisedLearning_Recommender_System_using_Collaborative_Filtering_\(MovieRecommendations\).ipynb)**
 6.  **[Genetic Clustering of DNA Sequences](https://github.com/ruforavishnu/Project_Machine_Learning/blob/master/Project16_Unsupervised_Learning_Genetic_Clustering_of_DNA_Sequences.ipynb)**
 
-    
+
+
+
+1. [K-Means Clustering - Customer Segmentation](https://github.com/ruforavishnu/Project_Machine_Learning/blob/master/Project_11_Unsupervised_Learning_K_means_clustering_Customer_segmentation_using_K_means_clustering.ipynb)
+2. [DBSCAN - Anomaly Detection in Network Traffic](https://github.com/ruforavishnu/Project_Machine_Learning/blob/master/Project_12_Unsupervised_Learning_Anomaly_Detection_in_Network_Traffic_using_DBSCAN.ipynb)
+3. [Document Topic Modeling using LDA](https://github.com/ruforavishnu/Project_Machine_Learning/blob/master/Project13_Unsupervised_Learning_Document_topic_modeling_using_Latent_Dirichlet_Allocation_(LDA).ipynb)
+4. [Movie Recommender System - Collaborative Filtering](https://github.com/ruforavishnu/Project_Machine_Learning/blob/master/Project15_UnsupervisedLearning_Recommender_System_using_Collaborative_Filtering_(MovieRecommendations).ipynb)
+5. [Genetic Clustering of DNA Sequences](https://github.com/ruforavishnu/Project_Machine_Learning/blob/master/Project16_Unsupervised_Learning_Genetic_Clustering_of_DNA_Sequences.ipynb)
+6. [Music Genre Discovery from Raw MP3 Files](https://github.com/ruforavishnu/Project_Machine_Learning/tree/master/Project14-Unsupervised%20Learning) *(folder of notebooks)*
+
+	
 
 (4 more yet to be completed…)
 
