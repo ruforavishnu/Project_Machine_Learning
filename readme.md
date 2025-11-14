@@ -50,13 +50,6 @@ All projects are future-proof
 # 🟣 Unsupervised Learning (6/10 projects Completed)
 
 
-    
-4. **Music Genre Discovery (Raw MP3 Clusters)**  
-    Project was bit sophisticated to fit into a google colab notebook so was done in a folder and uploaded via git. See Project14
-	1. . [Project 14 - Making an AI model to learn and figuring out music genre from a bunch of raw mp3 files ](https://github.com/ruforavishnu/Project_Machine_Learning/tree/master/Project14-Unsupervised%20Learning)
-		1. For example: made the ai model learn to figure out which of which are Enrique songs and AR Rahman songs and Taylor Swift songs and Owlcity songs and other mp3 songs just from a zip containing a bunch of mp3 files.
-
-
 1. [K-Means Clustering - Customer Segmentation](https://github.com/ruforavishnu/Project_Machine_Learning/blob/master/Project_11_Unsupervised_Learning_K_means_clustering_Customer_segmentation_using_K_means_clustering.ipynb)
 2. [DBSCAN - Anomaly Detection in Network Traffic](https://github.com/ruforavishnu/Project_Machine_Learning/blob/master/Project_12_Unsupervised_Learning_Anomaly_Detection_in_Network_Traffic_using_DBSCAN.ipynb)
 3. [Document Topic Modeling using LDA](https://github.com/ruforavishnu/Project_Machine_Learning/blob/master/Project13_Unsupervised_Learning_Document_topic_modeling_using_Latent_Dirichlet_Allocation_(LDA).ipynb)
