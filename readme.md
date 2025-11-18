@@ -60,9 +60,14 @@ All projects are future-proof
 5.  [Movie Recommender System - Collaborative Filtering](https://github.com/ruforavishnu/Project_Machine_Learning/blob/master/Project15_UnsupervisedLearning_Recommender_System_using_Collaborative_Filtering_(MovieRecommendations).ipynb)
 6. [Genetic Clustering of DNA Sequences](https://github.com/ruforavishnu/Project_Machine_Learning/blob/master/Project16_Unsupervised_Learning_Genetic_Clustering_of_DNA_Sequences.ipynb)
 
+7. [Dimensional Reduction for Image Compression ](https://github.com/ruforavishnu/Project_Machine_Learning/blob/master/Project17_Unsupervised_Learning_Dimensionality_Reduction_for_Image_Compression_using_t_SNE.ipynb)
+
+8. [Fraud Detection in credit card transactions using Autoencoders](https://github.com/ruforavishnu/Project_Machine_Learning/blob/master/Project18_Unsupervised_Learning_Fraud_Detection_in_Credit_Card_Transactions_using_Autoencoders.ipynb)
+	Built an AI model that analyzes a credit card database that contains upwards of 2.84 lakh transactions. And from that it first learns to analyze the transactions. Then finds out which of those transactions were fraudulent transactions. In the output we received in the final output. 492 transactions were fraud transactions out of the total 2.84 lakh transactions! Honestly it feels kind of brilliant to know what these AI models can be taught to learn and perform. 
 
 
-(4 more yet to be uploaded…)
+
+(2 more yet to be uploaded…)
 
 ---
 
