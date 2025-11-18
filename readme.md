@@ -23,7 +23,7 @@ All projects are future-proof
 | Category                   | Target | Completed |
 | -------------------------- | ------ | --------- |
 | **Supervised Learning**    | 10     | ✅ 10/10   |
-| **Unsupervised Learning**  | 10     | 🚧 6/10   |
+| **Unsupervised Learning**  | 10     | 🚧 8/10   |
 | **Reinforcement Learning** | 10     | 🚧  1/10   |
 
 ---
@@ -47,7 +47,7 @@ All projects are future-proof
 
 ---
 
-# 🔵 Unsupervised Learning (6/10 projects Completed)
+# 🔵 Unsupervised Learning (8/10 projects Completed)
 
 
 1. [K-Means Clustering - Customer Segmentation](https://github.com/ruforavishnu/Project_Machine_Learning/blob/master/Project_11_Unsupervised_Learning_K_means_clustering_Customer_segmentation_using_K_means_clustering.ipynb)
@@ -61,6 +61,7 @@ All projects are future-proof
 6. [Genetic Clustering of DNA Sequences](https://github.com/ruforavishnu/Project_Machine_Learning/blob/master/Project16_Unsupervised_Learning_Genetic_Clustering_of_DNA_Sequences.ipynb)
 
 7. [Dimensional Reduction for Image Compression ](https://github.com/ruforavishnu/Project_Machine_Learning/blob/master/Project17_Unsupervised_Learning_Dimensionality_Reduction_for_Image_Compression_using_t_SNE.ipynb)
+Converts a high resolution image to low resolution. And then we train the AI model to analyze both. This process we do for big datasets of upwards of 1000 images. Then once the AI model has learnt and analyzed and understood patterns in the images. We now give the AI model purposefully a low resolution image. And the AI model from what it learnt previously tries to build a high-resolutions image out of the purposefully given low resolution image. 
 
 8. [Fraud Detection in credit card transactions using Autoencoders](https://github.com/ruforavishnu/Project_Machine_Learning/blob/master/Project18_Unsupervised_Learning_Fraud_Detection_in_Credit_Card_Transactions_using_Autoencoders.ipynb)
 	Built an AI model that analyzes a credit card database that contains upwards of 2.84 lakh transactions. And from that it first learns to analyze the transactions. Then finds out which of those transactions were fraudulent transactions. In the output we received in the final output. 492 transactions were fraud transactions out of the total 2.84 lakh transactions! Honestly it feels kind of brilliant to know what these AI models can be taught to learn and perform. 
