@@ -23,7 +23,7 @@ All projects are future-proof
 | Category                   | Target | Completed |
 | -------------------------- | ------ | --------- |
 | **Supervised Learning**    | 10     | ✅ 10/10   |
-| **Unsupervised Learning**  | 10     | 🚧 8/10   |
+| **Unsupervised Learning**  | 10     | 🚧 9/10   |
 | **Reinforcement Learning** | 10     | 🚧  1/10   |
 
 ---
@@ -64,11 +64,17 @@ All projects are future-proof
 Converts a high resolution image to low resolution. And then we train the AI model to analyze both. This process we do for big datasets of upwards of 1000 images. Then once the AI model has learnt and analyzed and understood patterns in the images. We now give the AI model purposefully a low resolution image. And the AI model from what it learnt previously tries to build a high-resolution image out of the purposefully given low resolution image. 
 
 8. [Fraud Detection in credit card transactions using Autoencoders](https://github.com/ruforavishnu/Project_Machine_Learning/blob/master/Project18_Unsupervised_Learning_Fraud_Detection_in_Credit_Card_Transactions_using_Autoencoders.ipynb)
-	Built an AI model that analyzes a credit card database that contains upwards of 2.84 lakh transactions. And from that it first learns to analyze the transactions. Then finds out which of those transactions were fraudulent transactions. In the output we received in the final output. 492 transactions were fraud transactions out of the total 2.84 lakh transactions! Honestly it feels kind of brilliant to know what these AI models can be taught to learn and perform. 
+	Built an AI model that analyzes a credit card database that contains upwards of 2.84 lakh transactions. And from that it first learns to analyze the transactions. Then finds out which of those transactions were fraudulent transactions. In the output we received in the final output. 492 transactions were fraud transactions out of the total 2.84 lakh transactions! Honestly it feels kind of brilliant to know what these AI models can be taught to learn and perform.
+
+9. [Social Network Graph Analysis using Community Detection](https://github.com/ruforavishnu/Project_Machine_Learning/blob/master/Project19_Unsupervised_Learning_Social_Network_Graph_Analysis_using_Community_Detection.ipynb)
+In this project we built an AI model that analyzes a social group and identifies patterns in their friend circles. We used a unsupervised learning AI technique called community detection to analyze the different friends gangs formed and made the AI model understand and discover which people belong together. The model visually shows who becomes friends with who.
 
 
 
-(2 more yet to be uploaded…)
+
+
+
+(1 more yet to be uploaded…)
 
 ---
 
