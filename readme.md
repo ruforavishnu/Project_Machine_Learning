@@ -47,7 +47,7 @@ All projects are future-proof
 
 ---
 
-# 🔵 Unsupervised Learning (8/10 projects Completed)
+# 🔵 Unsupervised Learning (9/10 projects Completed)
 
 
 1. [K-Means Clustering - Customer Segmentation](https://github.com/ruforavishnu/Project_Machine_Learning/blob/master/Project_11_Unsupervised_Learning_K_means_clustering_Customer_segmentation_using_K_means_clustering.ipynb)
