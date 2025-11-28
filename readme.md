@@ -23,7 +23,7 @@ All projects are future-proof
 | Category                   | Target | Completed |
 | -------------------------- | ------ | --------- |
 | **Supervised Learning**    | 10     | ✅ 10/10   |
-| **Unsupervised Learning**  | 10     | 🚧 9/10   |
+| **Unsupervised Learning**  | 10     | ✅  10/10   |
 | **Reinforcement Learning** | 10     | 🚧  1/10   |
 
 ---
@@ -47,7 +47,7 @@ All projects are future-proof
 
 ---
 
-# 🔵 Unsupervised Learning (9/10 projects Completed)
+# 🔵 Unsupervised Learning (10/10 projects Completed)
 
 
 1. [K-Means Clustering - Customer Segmentation](https://github.com/ruforavishnu/Project_Machine_Learning/blob/master/Project_11_Unsupervised_Learning_K_means_clustering_Customer_segmentation_using_K_means_clustering.ipynb)
@@ -69,12 +69,15 @@ Converts a high resolution image to low resolution. And then we train the AI mod
 9. [Social Network Graph Analysis using Community Detection](https://github.com/ruforavishnu/Project_Machine_Learning/blob/master/Project19_Unsupervised_Learning_Social_Network_Graph_Analysis_using_Community_Detection.ipynb)
 In this project we built an AI model that analyzes a social group and identifies patterns in their friend circles. We used a unsupervised learning AI technique called community detection to analyze the different friends gangs formed and made the AI model understand and discover which people belong together. The model visually shows who becomes friends with who.
 
+10. [Market Basket Analysis using Association Rule](https://github.com/ruforavishnu/Project_Machine_Learning/blob/master/Project20_Unsupervised_Learning_Market_Basket_analysis_using_association_rule_learning.ipynb)
+In this project we built an AI model that analyzes the customer data from a supermarket's past customer purchase data and then figures out patterns from it. It finds out things like below
+- When customers purchase WHOLE MILK, 1.74% also purchase HAM
+- When customers purchase CHOCOLATE, 11.90% also purchase ROLLS/BUNS
+- When customers purchase FRUIT/VEGETABLE JUICE, 11.00% also purchase ROLLS/BUNS
+
+and so the AI model understands past customer purchases and figures out patterns in which future customers might also behave. thereby, increasing company revenue.
 
 
-
-
-
-(1 more yet to be uploaded…)
 
 ---
 
