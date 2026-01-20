@@ -107,6 +107,14 @@ Long-form Malayalam narration generation.
 
 Variational autoencoder for creating synthetic spectrograms.
 
+### **[Proj 5: Machine learning vs Deep Learning]
+(https://github.com/ruforavishnu/Project_Machine_Learning/blob/master/rose_vs_carnation_ml_vs_dl.ipynb)**
+
+Machine Learning vs Deep Learning
+complete blog post : (https://dev.to/vishnu_ajit/4-reasons-why-ditching-machine-learning-and-falling-in-love-with-deep-learning-might-be-a-good-idea-3lm1)
+
+
+
 ---
 
 # 🔧 Tech Design
