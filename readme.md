@@ -85,7 +85,20 @@ and so the AI model understands past customer purchases and figures out patterns
 
 1. **[Self-Learning Tic-Tac-Toe (Q-Learning)](https://github.com/ruforavishnu/Project_Machine_Learning/blob/main/Project21_Reinforcement_Learning_Self_learning_Tic_Tac_Toe_Agent_using_Q_Learning.ipynb)**  
     A simple agent that learns entirely through rewards and exploration — no rules hardcoded.
-    
+
+
+## **Task 3: Reinforcement Learning (10 Projects)** - list of projects to do
+
+3. **Self-learning Tic-Tac-Toe Agent using Q-Learning** - COMPLETED
+4. **Autonomous Car Parking using Deep Q Networks (DQN)** - CURRENTLY DOING
+5. **Stock Trading Bot using Proximal Policy Optimization (PPO)**
+6. **Game AI for Flappy Bird using Policy Gradient Methods**
+7. **Smart Traffic Light Control using Multi-Agent Reinforcement Learning**
+8. **Robotic Arm Control using Reinforcement Learning**
+9. **Pathfinding for Maze Solving using A3C (Asynchronous Advantage Actor-Critic)**
+10. **Autonomous Drone Navigation using Reinforcement Learning**
+11. **Dynamic Pricing Strategy for E-commerce using RL**
+12. **AI-Based Portfolio Management using Reinforcement Learning**
 
 ---
 
